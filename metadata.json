@@ -1,0 +1,6 @@
+{
+  "name": "MindCare – Mental Health & Therapy Flutter App",
+  "description": "MindCare: Complete Flutter & Dart mental health and therapy chat mobile application with Material 3 design, mood tracker, breathing exercises, therapist directory, and interactive Flutter simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
