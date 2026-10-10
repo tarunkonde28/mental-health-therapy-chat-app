@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/mental-health-therapy-chat-app/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
